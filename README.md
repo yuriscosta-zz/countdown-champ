@@ -1,5 +1,6 @@
 **A simple application to countdown from now to some date.**
-Done following the [ReactJS and Redux - Mastering Web Apps](https://www.udemy.com/react-js-and-redux-mastering-web-apps) course.
+
+_Done following the [ReactJS and Redux - Mastering Web Apps](https://www.udemy.com/react-js-and-redux-mastering-web-apps) course._
 
 ## Usage
 
